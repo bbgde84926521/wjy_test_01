@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<style type="text/css" link="index.scss"></style>
+		<script type="text/javascript" src="static/components/mod.js"></script>
+	</head>
+	
+	<body>
+		<h2>喜欢就微我呀，免费送啦~</h2>
+		<div>哼~哼~</div>
+
+		
+
+		##------------------------------------
+        ## scripts
+        ##------------------------------------
+        __FRAMEWORK_CONFIG__
+        <script>
+        require(['page/index/index'],function(app){
+            app();
+        });
+        </script>
+	</body>
+</html>
